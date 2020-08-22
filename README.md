@@ -1,6 +1,7 @@
 # weather-app-react-native
 
 # Run app
-## npm install
 
-## expo start
+npm install
+
+expo start
