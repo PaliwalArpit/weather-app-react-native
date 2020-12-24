@@ -3,6 +3,7 @@
   "scripts": {
     "start": "expo start",
     "android": "expo start --android",
+    "build": "expo build:web",
     "ios": "expo start --ios",
     "web": "expo start --web",
     "eject": "expo eject"
@@ -11,6 +12,7 @@
     "@react-native-community/picker": "1.6.0",
     "babel-preset-expo": "^8.2.3",
     "expo": "~38.0.8",
+    "expo-cli": "^4.0.16",
     "expo-location": "~8.2.1",
     "expo-status-bar": "^1.0.2",
     "react": "~16.11.0",
